@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="text-align : center">
+<div align="center">
 
 **Language**
 
