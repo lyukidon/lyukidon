@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Portfolio 👉👉👉 [https://ryugidon.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9](https://ryugidon.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9)
+Portfolio 👉👉👉 [https://ryu-dev.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9?pvs=4](https://ryu-dev.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9?pvs=4)
 
 **Language**
 
