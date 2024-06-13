@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Portfolio 👉👉👉 [https://docs.google.com/document/d/1vNZg9YHSfVh5zQUtxtl9kacVWSqzSrhZ/edit](https://docs.google.com/document/d/1vNZg9YHSfVh5zQUtxtl9kacVWSqzSrhZ/edit)
+Portfolio 👉👉👉 [https://ryugidon.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9](https://ryugidon.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9)
 
 **Language**
 
