@@ -9,41 +9,6 @@ Portfolio 👉👉👉 [https://ryu-dev.notion.site/Full-Stack-Developer-766206b
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 
-<b>Front-End</b>
-
-![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=000)
-![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)
-![Emotion](https://img.shields.io/badge/Emotion-D46AC2?style=flat-square&logo=&logoColor=FFCA2B)
-
-<b>Back-End</b>
-
-![Node JS](https://img.shields.io/badge/Node_JS-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express_JS-000000?style=flat-square&logo=express&logoColor=fff)
-![Nest JS](https://img.shields.io/badge/Nest_JS-E0234E?style=flat-square&logo=NestJS&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
-
-<b>Database</b>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![OracleSQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=fff)
-
-<b>OS</b>
-
-![ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=fff)
-![macos](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=apple&logoColor=fff)
-
-<b>Others</b>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![aws](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
-![NGINX](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Zustand](https://img.shields.io/badge/Zustand-59303f?style=flat-square&logo=&logoColor=fff)
-
-
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
