@@ -2,8 +2,6 @@
 
 <div align="center">
 
-Portfolio 👉👉👉 [https://ryu-dev.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9?pvs=4](https://ryu-dev.notion.site/Full-Stack-Developer-766206b48c7b499f9aa28b0ba233e5a9?pvs=4)
-
 **Language**
 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
