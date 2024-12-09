@@ -1,12 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-
-**Language**
-
-![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-
+    
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
