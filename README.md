@@ -14,6 +14,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyukidon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qgx99098)](https://solved.ac/qgx99098)
+
 <!--
 **lyukidon/lyukidon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
